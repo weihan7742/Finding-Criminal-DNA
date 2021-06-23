@@ -1,4 +1,4 @@
-# Dynamic Programming - Salary Work Schedule
+# Prefix Trie - Finding Criminal DNA
 You are maintaining a database which recognises criminal DNA. During the study, more criminal DNA will be collected from patients.
 
 Note: DNA is typically represented using A, T, C and G. For the purpose of easy coding, we
